@@ -98,7 +98,7 @@ this github is a record of what i’m learning, what i’m questioning, and what
 
 <table align="center">
   <tr>
-    <td><img src="assets/cert-aws-cloud-practitioner.jpg" alt="AWS Certified Cloud Practitioner" width="120" /></td>
-    <td><img src="assets/cert-aws-developer-associate.jpg" alt="AWS Certified Developer Associate" width="120" /></td>
+    <td><img src="assets/cert-aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120" /></td>
+    <td><img src="assets/cert-aws-developer-associate.png" alt="AWS Certified Developer Associate" width="120" /></td>
   </tr>
 </table>
