@@ -1,4 +1,8 @@
-# hi, i’m navi.
+<p align="center">
+  <img src="assets/profile.jpeg" alt="navi" width="320" />
+</p>
+
+# 𝓱𝓲, 𝓲’𝓶 𝓷𝓪𝓿𝓲.
 
 software engineer. researcher. student of systems.
 
@@ -10,7 +14,7 @@ working with technologies like java, spring boot, aws, kafka, and relational dat
 
 but my curiosity has never been limited to software.
 
-## the intersection of engineering and crypto
+## 𝓽𝓱𝓮 𝓲𝓷𝓽𝓮𝓻𝓼𝓮𝓬𝓽𝓲𝓸𝓷 𝓸𝓯 𝓮𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰 𝓪𝓷𝓭 𝓬𝓻𝔂𝓹𝓽𝓸
 
 i’ve participated in cryptocurrency markets since 2023.
 
@@ -32,7 +36,7 @@ and how can we turn all of that information into something useful?
 
 these are the kinds of questions i want to explore through research and software.
 
-## what i want to build
+## 𝔀𝓱𝓪𝓽 𝓲 𝔀𝓪𝓷𝓽 𝓽𝓸 𝓫𝓾𝓲𝓵𝓭
 
 i’m interested in building tools that make complex systems more understandable.
 
@@ -53,7 +57,7 @@ there’s an enormous amount of information available, but information alone isn
 
 that’s the kind of engineering i want to pursue.
 
-## my philosophy
+## 𝓶𝔂 𝓹𝓱𝓲𝓵𝓸𝓼𝓸𝓹𝓱𝔂
 
 i don’t think understanding a technology means knowing how to use it.
 
@@ -71,7 +75,7 @@ research creates questions. engineering forces you to confront them.
 
 some ideas will work. others won’t. either way, i want to document the process, share what i learn, and keep improving.
 
-## beyond the terminal
+## 𝓫𝓮𝔂𝓸𝓷𝓭 𝓽𝓱𝓮 𝓽𝓮𝓻𝓶𝓲𝓷𝓪𝓵
 
 outside of engineering and crypto, i’m into fashion, japanese language and culture, bodybuilding, basketball, and creative expression.
 
