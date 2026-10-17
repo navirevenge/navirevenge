@@ -1,6 +1,6 @@
 <table align="center">
   <tr>
-    <td><img src="assets/profile-circle.png" alt="navi" width="120" /></td>
+    <td><img src="assets/circle-nft-street-cat.png" alt="street cat syndicate" width="120" /></td>
     <td><img src="assets/circle-donut.png" alt="donut ape" width="120" /></td>
     <td><img src="assets/circle-ghostbusters.png" alt="ghostbusters art" width="120" /></td>
     <td><img src="assets/circle-nft-img-0383.png" alt="rainbow beret ape" width="120" /></td>
