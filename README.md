@@ -10,6 +10,10 @@
 
 # 𝓱𝓲, 𝓲’𝓶 𝓷𝓪𝓿𝓲.
 
+<p align="center">
+  <img src="assets/profile-circle.png" alt="navi" width="120" />
+</p>
+
 software engineer. researcher. student of systems.
 
 i’ve always been fascinated by the systems that exist beneath the things we interact with every day. the infrastructure behind an application, the mechanisms behind a financial market, the relationship between information and human behavior, and the invisible decisions that determine whether something succeeds or fails.
