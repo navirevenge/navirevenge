@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile.jpeg" alt="navi" width="320" />
+  <img src="assets/profile-circle.png" alt="navi" width="120" />
 </p>
 
 # 𝓱𝓲, 𝓲’𝓶 𝓷𝓪𝓿𝓲.
