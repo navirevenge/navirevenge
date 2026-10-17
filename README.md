@@ -6,13 +6,17 @@
   <img src="assets/circle-nft-retardio.png" alt="witch nft" width="120" />
 </p>
 
-# 𝓱𝓲, 𝓲’𝓶 𝓷𝓪𝓿𝓲.
+# 𝖍𝖎, 𝖎’𝖒 𝖓𝖆𝖛𝖎.
 
 <p align="center">
   <img src="assets/profile-circle.png" alt="navi" width="120" />
 </p>
 
 software engineer. researcher. student of systems.
+
+**navi revenge** is my creative alter ego. the software engineer behind it is [NazWright](https://github.com/NazWright).
+
+**navi** is an alias. it stands for *naz always ventures inward*.
 
 i’ve always been fascinated by the systems that exist beneath the things we interact with every day. the infrastructure behind an application, the mechanisms behind a financial market, the relationship between information and human behavior, and the invisible decisions that determine whether something succeeds or fails.
 
@@ -22,7 +26,7 @@ working with technologies like java, spring boot, aws, kafka, and relational dat
 
 but my curiosity has never been limited to software.
 
-## 𝓽𝓱𝓮 𝓲𝓷𝓽𝓮𝓻𝓼𝓮𝓬𝓽𝓲𝓸𝓷 𝓸𝓯 𝓮𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰 𝓪𝓷𝓭 𝓬𝓻𝔂𝓹𝓽𝓸
+## 𝖙𝖍𝖊 𝖎𝖓𝖙𝖊𝖗𝖘𝖊𝖈𝖙𝖎𝖔𝖓 𝖔𝖋 𝖊𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖎𝖓𝖌 𝖆𝖓𝖉 𝖈𝖗𝖞𝖕𝖙𝖔
 
 i’ve participated in cryptocurrency markets since 2023.
 
@@ -44,7 +48,7 @@ and how can we turn all of that information into something useful?
 
 these are the kinds of questions i want to explore through research and software.
 
-## 𝔀𝓱𝓪𝓽 𝓲 𝔀𝓪𝓷𝓽 𝓽𝓸 𝓫𝓾𝓲𝓵𝓭
+## 𝖜𝖍𝖆𝖙 𝖎 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖇𝖚𝖎𝖑𝖉
 
 i’m interested in building tools that make complex systems more understandable.
 
@@ -65,7 +69,7 @@ there’s an enormous amount of information available, but information alone isn
 
 that’s the kind of engineering i want to pursue.
 
-## 𝓶𝔂 𝓹𝓱𝓲𝓵𝓸𝓼𝓸𝓹𝓱𝔂
+## 𝖒𝖞 𝖕𝖍𝖎𝖑𝖔𝖘𝖔𝖕𝖍𝖞
 
 i don’t think understanding a technology means knowing how to use it.
 
@@ -83,7 +87,7 @@ research creates questions. engineering forces you to confront them.
 
 some ideas will work. others won’t. either way, i want to document the process, share what i learn, and keep improving.
 
-## 𝓫𝓮𝔂𝓸𝓷𝓭 𝓽𝓱𝓮 𝓽𝓮𝓻𝓶𝓲𝓷𝓪𝓵
+## 𝖇𝖊𝖞𝖔𝖓𝖉 𝖙𝖍𝖊 𝖙𝖊𝖗𝖒𝖎𝖓𝖆𝖑
 
 outside of engineering and crypto, i’m into fashion, japanese language and culture, bodybuilding, basketball, and creative expression.
 
