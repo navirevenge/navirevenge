@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="assets/profile-circle.png" alt="navi" height="120" />
-  <img src="assets/featured-donut.jpg" alt="donut ape" height="120" />
-  <img src="assets/featured-ghostbusters.jpg" alt="ghostbusters art" height="120" />
-  <img src="assets/featured-times-square.jpg" alt="times square" height="120" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="assets/profile-circle.png" alt="navi" width="120" /></td>
+    <td><img src="assets/circle-donut.png" alt="donut ape" width="120" /></td>
+    <td><img src="assets/circle-ghostbusters.png" alt="ghostbusters art" width="120" /></td>
+    <td><img src="assets/circle-times-square.png" alt="times square" width="120" /></td>
+  </tr>
+</table>
 
 # 𝓱𝓲, 𝓲’𝓶 𝓷𝓪𝓿𝓲.
 
