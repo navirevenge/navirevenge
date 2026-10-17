@@ -6,7 +6,7 @@
   <img src="assets/circle-nft-retardio.png" alt="witch nft" width="120" />
 </p>
 
-# 𝖍𝖎, 𝖎’𝖒 𝖓𝖆𝖛𝖎.
+# 𝐡𝐢, 𝐢’𝐦 𝐧𝐚𝐯𝐢.
 
 <p align="center">
   <img src="assets/profile-circle.png" alt="navi" width="120" />
@@ -26,7 +26,7 @@ working with technologies like java, spring boot, aws, kafka, and relational dat
 
 but my curiosity has never been limited to software.
 
-## 𝖙𝖍𝖊 𝖎𝖓𝖙𝖊𝖗𝖘𝖊𝖈𝖙𝖎𝖔𝖓 𝖔𝖋 𝖊𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖎𝖓𝖌 𝖆𝖓𝖉 𝖈𝖗𝖞𝖕𝖙𝖔
+## 𝐭𝐡𝐞 𝐢𝐧𝐭𝐞𝐫𝐬𝐞𝐜𝐭𝐢𝐨𝐧 𝐨𝐟 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐚𝐧𝐝 𝐜𝐫𝐲𝐩𝐭𝐨
 
 i’ve participated in cryptocurrency markets since 2023.
 
@@ -48,7 +48,7 @@ and how can we turn all of that information into something useful?
 
 these are the kinds of questions i want to explore through research and software.
 
-## 𝖜𝖍𝖆𝖙 𝖎 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖇𝖚𝖎𝖑𝖉
+## 𝐰𝐡𝐚𝐭 𝐢 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐛𝐮𝐢𝐥𝐝
 
 i’m interested in building tools that make complex systems more understandable.
 
@@ -69,7 +69,7 @@ there’s an enormous amount of information available, but information alone isn
 
 that’s the kind of engineering i want to pursue.
 
-## 𝖒𝖞 𝖕𝖍𝖎𝖑𝖔𝖘𝖔𝖕𝖍𝖞
+## 𝐦𝐲 𝐩𝐡𝐢𝐥𝐨𝐬𝐨𝐩𝐡𝐲
 
 i don’t think understanding a technology means knowing how to use it.
 
@@ -87,7 +87,7 @@ research creates questions. engineering forces you to confront them.
 
 some ideas will work. others won’t. either way, i want to document the process, share what i learn, and keep improving.
 
-## 𝖇𝖊𝖞𝖔𝖓𝖉 𝖙𝖍𝖊 𝖙𝖊𝖗𝖒𝖎𝖓𝖆𝖑
+## 𝐛𝐞𝐲𝐨𝐧𝐝 𝐭𝐡𝐞 𝐭𝐞𝐫𝐦𝐢𝐧𝐚𝐥
 
 outside of engineering and crypto, i’m into fashion, japanese language and culture, bodybuilding, basketball, and creative expression.
 
