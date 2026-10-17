@@ -4,6 +4,7 @@
     <td><img src="assets/circle-donut.png" alt="donut ape" width="120" /></td>
     <td><img src="assets/circle-ghostbusters.png" alt="ghostbusters art" width="120" /></td>
     <td><img src="assets/circle-times-square.png" alt="times square" width="120" /></td>
+    <td><img src="assets/circle-sapporo.png" alt="sapporo" width="120" /></td>
   </tr>
 </table>
 
