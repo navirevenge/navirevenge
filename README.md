@@ -1,12 +1,10 @@
-<table align="center">
-  <tr>
-    <td><img src="assets/circle-nft-street-cat.png" alt="street cat syndicate" width="120" /></td>
-    <td><img src="assets/circle-donut.png" alt="donut ape" width="120" /></td>
-    <td><img src="assets/circle-ghostbusters.png" alt="ghostbusters art" width="120" /></td>
-    <td><img src="assets/circle-nft-img-0383.png" alt="rainbow beret ape" width="120" /></td>
-    <td><img src="assets/circle-nft-retardio.png" alt="witch nft" width="120" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/circle-nft-street-cat.png" alt="street cat syndicate" width="120" />
+  <img src="assets/circle-donut.png" alt="donut ape" width="120" />
+  <img src="assets/circle-ghostbusters.png" alt="ghostbusters art" width="120" />
+  <img src="assets/circle-nft-img-0383.png" alt="rainbow beret ape" width="120" />
+  <img src="assets/circle-nft-retardio.png" alt="witch nft" width="120" />
+</p>
 
 # 𝓱𝓲, 𝓲’𝓶 𝓷𝓪𝓿𝓲.
 
@@ -101,9 +99,7 @@ this github is a record of what i’m learning, what i’m questioning, and what
 
 **— navi**
 
-<table align="center">
-  <tr>
-    <td><img src="assets/cert-aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120" /></td>
-    <td><img src="assets/cert-aws-developer-associate.png" alt="AWS Certified Developer Associate" width="120" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/cert-aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120" />
+  <img src="assets/cert-aws-developer-associate.png" alt="AWS Certified Developer Associate" width="120" />
+</p>
