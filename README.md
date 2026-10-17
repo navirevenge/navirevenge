@@ -3,8 +3,8 @@
     <td><img src="assets/profile-circle.png" alt="navi" width="120" /></td>
     <td><img src="assets/circle-donut.png" alt="donut ape" width="120" /></td>
     <td><img src="assets/circle-ghostbusters.png" alt="ghostbusters art" width="120" /></td>
-    <td><img src="assets/circle-times-square.png" alt="times square" width="120" /></td>
-    <td><img src="assets/circle-sapporo.png" alt="sapporo" width="120" /></td>
+    <td><img src="assets/circle-nft-img-0383.png" alt="rainbow beret ape" width="120" /></td>
+    <td><img src="assets/circle-nft-retardio.png" alt="witch nft" width="120" /></td>
   </tr>
 </table>
 
